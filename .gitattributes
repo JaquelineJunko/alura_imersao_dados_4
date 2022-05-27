@@ -1,1 +1,2 @@
 dados_geo.csv filter=lfs diff=lfs merge=lfs -text
+enderecos.csv filter=lfs diff=lfs merge=lfs -text
